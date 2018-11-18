@@ -1,5 +1,50 @@
 https://www.nginx.com/blog/building-microservices-using-an-api-gateway/ : MOST IMPORTANT
 https://blog.appdynamics.com/product/4-challenges-you-need-to-address-with-microservices-adoption/
+https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/
+
+NodeJS version 7.2.0
+MongoDB 3.4.1
+Docker for Mac 1.12.6
+But first, what is a microservice?
+A microservice is a single self-contained unit which, together with many others, makes up a large application. By splitting your app into small units every part of it is independently deployable and scalable, can be written by different teams and in different programming languages and can be tested individually.Max Stoiber
+
+A microservice architecture means that your app is made up of lots of smaller, independent applications capable of running in their own memory space and scaling independently from each other across potentially many separate machines.Eric Elliot
+
+NEW CINEMA
+
+- [Build a NodeJS cinema microservice and deploying it with docker (part 1)](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
+
+
+https://www.elastic.io/breaking-down-monolith-microservices-and-self-contained-systems/
+https://medium.com/car2godevs/k-fastify-gateway-a-node-js-api-gateway-that-you-control-e7388c229b21
+
+https://www.express-gateway.io/
+
+https://moleculer.services/docs/0.13/
+
+https://microservices.io/patterns/microservices.html
+
+https://medium.com/@jayarajjg/need-of-design-standards-for-cross-cutting-concerns-in-microservices-architecture-a1f684f63821
+
+http://www.ben-morris.com/theres-no-such-thing-as-cross-cutting-concerns-between-services/
+
+https://dzone.com/articles/example-cross-cutting-concerns
+
+http://apiworkbench.com/docs/
+
+https://github.com/dwmkerr/microservices-playground : VERY NICE
+
+https://medium.com/@sunnykay/docker-development-workflow-node-express-mongo-4bb3b1f7eb1e : simple
+https://dzone.com/articles/design-considerations-for-a-microservice-architect?fromrel=true
+https://dzone.com/articles/swarmweek-part-3-deploying-a-nodejs-and-mongodb-mi
+
+https://github.com/dwmkerr/node-docker-microservice
+
+
+
+
+
+
 https://auth0.com/blog/an-introduction-to-microservices-part-3-the-service-registry/
 https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/
 http://www.redbooks.ibm.com/redbooks/pdfs/sg248358.pdf

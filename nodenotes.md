@@ -1,5 +1,4 @@
 Node embraces non-blocking I/O to improve performance for a number of application types.
-
 JavaScript’s traditional event-based implementation makes a relatively convenient
 and well-understood syntax that suits asynchronous programming.
 
@@ -19,3 +18,6 @@ servers perform tasks that might take a while to complete,
 like call an API or access a database. Node can process more incoming requests,
 allowing you to handle thousands of concurrent connections with very little overhead,
 as opposed to needing a thread on the server for each connection.
+
+https://dzone.com/articles/design-patterns-in-expressjs
+
