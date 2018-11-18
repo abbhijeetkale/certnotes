@@ -1,6 +1,19 @@
 https://www.nginx.com/blog/building-microservices-using-an-api-gateway/ : MOST IMPORTANT
 https://blog.appdynamics.com/product/4-challenges-you-need-to-address-with-microservices-adoption/
 https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/
+https://blog.risingstack.com/designing-microservices-architecture-for-failure/
+http://www.syntaxsuccess.com/viewarticle/creating-a-microservice-in-nodejs : I LIKED THIS APPROACH
+https://wtcindia.wordpress.com/2016/12/14/microservices-anatomy/
+https://www.sumologic.com/blog/devops/top-patterns-building-successful-microservices-architecture/
+https://techbeacon.com/creating-microservice-design-first-code-later
+https://www.oit.va.gov/library/programs/ts/edp/cloud/Microservices_V1.pdf : Awesome
+https://wso2.com/whitepapers/microservices-in-practice-key-architectural-concepts-of-an-msa/ " Anatomy"
+https://lnijira.atlassian.net/wiki/spaces/CFH/pages/226155/Architecture+and+High+Level+Design : Atlassian to rescue
+https://techbeacon.com/5-fundamentals-successful-microservice-design
+https://smartbear.com/learn/api-design/what-are-microservices/
+
+http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices
+
 
 NodeJS version 7.2.0
 MongoDB 3.4.1
