@@ -1,3 +1,8 @@
+Node embraces non-blocking I/O to improve performance for a number of application types.
+
+JavaScript’s traditional event-based implementation makes a relatively convenient
+and well-understood syntax that suits asynchronous programming.
+
 Node.js is a server-side framework, one of it’s main works is to handle any number of requests.
 In traditional I/O bound servers systems, a request can only be issued when the response
 to the previous request has arrived. This is typically referred to as blocking I/O.

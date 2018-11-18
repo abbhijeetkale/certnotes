@@ -1,0 +1,4 @@
+AWS Lambda is extremely useful for completing tasks that require high compute power like image processing
+. ... They now use AWS services to send 100 billion datapoints every month, and for each new feature,
+AWS Lambda creates a new microservice to access the Amazon Kinesis data stream.
+http://techgenix.com/aws-lambda-microservices/
